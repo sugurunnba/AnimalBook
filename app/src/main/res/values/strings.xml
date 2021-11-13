@@ -3,4 +3,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_text">フラグメント動物図鑑</string>
+    <string name="lionButton">ライオン</string>
 </resources>
